@@ -2,7 +2,7 @@
 
 1. [require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)](#require-非-标-准-模-块-格-式-的-代-码-(-不-遵-循-commonjs-,-也-不-遵-循-amd-))
 
-### require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)
+### 场景1: require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)
 
 假设我们有一个 ./rocket.js 文件,内容如下:
 
