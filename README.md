@@ -1,8 +1,8 @@
-一些 Webpack 示例代码
+这个 repo 介绍一些 Webpack 常用的应用场景.
 
-1. [require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)](require_none_standard)
+1. [require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)](#require-非标准模块格式的代码(不遵循CommonJS,也不遵循AMD))
 
-### <a name="require_none_standard"></a> require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)
+### require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)
 
 假设我们有一个 ./rocket.js 文件,内容如下:
 
