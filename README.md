@@ -1,6 +1,8 @@
 这个 repo 介绍一些 Webpack 常用的应用场景.
 
-1. [require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)](#require-非-标-准-模-块-格-式-的-代-码-(-不-遵-循-commonjs-,-也-不-遵-循-amd-))
+常用场景列表:
+
+1. [require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)](#场景1-require-非标准模块格式的代码不遵循commonjs也不遵循amd)
 
 ### 场景1: require 非标准模块格式的代码(不遵循CommonJS,也不遵循AMD)
 
